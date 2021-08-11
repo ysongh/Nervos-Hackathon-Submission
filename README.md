@@ -9,3 +9,5 @@
 [Task 4 - Issue An SUDT Token On Layer 1 And Deposit It To Layer 2](https://github.com/ysongh/Nervos-Hackathon-Submission/tree/master/task4)
 
 [Task 5 - Deploy The ERC20 Proxy Contract For The Deposited SUDT](https://github.com/ysongh/Nervos-Hackathon-Submission/tree/master/task5)
+
+[Task 6 - Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice](https://github.com/ysongh/Nervos-Hackathon-Submission/tree/master/task6)
