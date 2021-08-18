@@ -12,4 +12,6 @@
 
 [Task 6 - Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice](https://github.com/ysongh/Nervos-Hackathon-Submission/tree/master/task6)
 
+[Task 7 - Port An Existing Ethereum DApp To Polyjuice](https://github.com/ysongh/Nervos-Hackathon-Submission/tree/master/task7)
+
 [Task 9 - Initiate Withdrawal Process From The Layer 2 Back To Layer 1](https://github.com/ysongh/Nervos-Hackathon-Submission/tree/master/task9)
